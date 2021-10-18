@@ -23,4 +23,5 @@ Depois
 
 > Os valores foram alterados, pois é apenas uma representação
 
-> **Importante:** Apenas para a conta PJ
+## Importante
+> Apenas para a conta PJ
